@@ -34,11 +34,13 @@ export function Header() {
 
 export function MainContent() {
   return (
-    <main>
+    <div className="main">
       <div className="company-detail-left">
         <h1>Welcome to XYZ Corp</h1>
         <p>Your Trusted Partner in Excellence</p>
-        <img src="https://placehold.co/300x300" />
+        <div>
+          <img src="https://placehold.co/300x300" />
+        </div>
       </div>
       <div className="company-detail-right">
         <h2>About Our Company</h2>
@@ -61,7 +63,7 @@ export function MainContent() {
         </p>
         <Button buttonText="Learn More" buttonStyle="learn-button" />
       </div>
-    </main>
+    </div>
   );
 }
 

@@ -120,7 +120,7 @@ export function FAQ() {
         <AccordionItem>
           <AccordionButton>
             <Box as="span" flex="1" textAlign="left">
-              <strong>Q: What makes XYZ Company's products so unique?</strong>
+              Q: What makes XYZ Company's products so unique?
             </Box>
             <AccordionIcon />
           </AccordionButton>
@@ -136,10 +136,8 @@ export function FAQ() {
         <AccordionItem>
           <AccordionButton>
             <Box as="span" flex="1" textAlign="left">
-              <strong>
-                Q: How does XYZ Company contribute to sustainability and
-                environmental conservation?
-              </strong>
+              Q: How does XYZ Company contribute to sustainability and
+              environmental conservation?
             </Box>
             <AccordionIcon />
           </AccordionButton>
@@ -156,10 +154,8 @@ export function FAQ() {
         <AccordionItem>
           <AccordionButton>
             <Box as="span" flex="1" textAlign="left">
-              <strong>
-                Q: What kind of support can customers expect from XYZ Company's
-                customer service team?
-              </strong>
+              Q: What kind of support can customers expect from XYZ Company's
+              customer service team?
             </Box>
             <AccordionIcon />
           </AccordionButton>
@@ -176,9 +172,7 @@ export function FAQ() {
         <AccordionItem>
           <AccordionButton>
             <Box as="span" flex="1" textAlign="left">
-              <strong>
-                Q: How does XYZ Company stay ahead of industry trends?
-              </strong>
+              Q: How does XYZ Company stay ahead of industry trends?
             </Box>
             <AccordionIcon />
           </AccordionButton>
@@ -195,10 +189,8 @@ export function FAQ() {
         <AccordionItem>
           <AccordionButton>
             <Box as="span" flex="1" textAlign="left">
-              <strong>
-                Q: Can you tell us about XYZ Company's commitment to community
-                involvement?
-              </strong>
+              Q: Can you tell us about XYZ Company's commitment to community
+              involvement?
             </Box>
             <AccordionIcon />
           </AccordionButton>
